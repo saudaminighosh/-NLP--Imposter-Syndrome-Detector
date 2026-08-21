@@ -55,8 +55,9 @@ The classification model achieved approximately:
 Installation:
 
 Clone the repository:
-git clone https://github.com/saudaminighosh/-NLP--Imposter-Syndrome-Detector.git
-cd -NLP--Imposter-Syndrome-Detector
+1. git clone https://github.com/saudaminighosh/-NLP--Imposter-Syndrome-Detector.git
+
+2. cd -NLP--Imposter-Syndrome-Detector
 
 Install the required Python packages:
 pip install pandas numpy scikit-learn praw matplotlib
