@@ -72,4 +72,3 @@ Author:
 **Saudamini Ghosh**
 
 * GitHub: https://github.com/saudaminighosh
-* LinkedIn: https://linkedin.com/in/saudaminighosh
