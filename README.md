@@ -4,9 +4,6 @@ A machine learning and NLP-based project that analyzes Reddit posts to identify 
 Project Overview:
 The goal of this project is to explore whether machine learning can identify linguistic patterns associated with imposter syndrome from user-generated Reddit content.
 
-The project follows a complete NLP pipeline:
-
-**Reddit Data → Text Preprocessing → TF-IDF Feature Extraction → Machine Learning Classification → Prediction**
 
 Technologies Used:
 * **Python**
