@@ -66,7 +66,7 @@ Usage:
 Run the main Python script:
 python Imposter_syndrome_detector_Basic.py
 
-If the project uses Reddit API credentials, configure the required Reddit API credentials before running the data collection component.
+* If the project uses Reddit API credentials, configure the required Reddit API credentials before running the data collection component.
 
 Author:
 **Saudamini Ghosh**
